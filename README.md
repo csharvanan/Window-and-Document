@@ -1,0 +1,1 @@
+#Window and Document in Javascript
