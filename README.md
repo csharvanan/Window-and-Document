@@ -11,12 +11,13 @@ window.property_name;
 
 ### Properties of the window:
 
-*** 1. closed ***
-*** 2. console ***
-*** 3. defaultStatus ***
-*** 4. controllers ***
-*** 5. customElements ***
-*** 6. crypto ***
+***1. closed***
+***2. console***
+***3. defaultStatus***
+***4. controllers***
+***5. customElements***
+***6. crypto***
+
 [For More Click =>](https://medium.com/@csharvanan/window-and-document-in-javascript-075194ec5e36) 
 
 ## Methods of Window:
@@ -29,12 +30,13 @@ window.method_name;
 
 ### Methods of the window:
 
-*** 1. alert() ***
-*** 2. prompt() ***
-*** 3. scrollBy() ***
-*** 4. setTimeout() ***
-*** 5. stop() ***
-*** 6. moveBy() ***
+***1. alert()***
+***2. prompt()***
+***3. scrollBy()***
+***4. setTimeout()***
+***5. stop()***
+***6. moveBy()***
+
 [For More Click =>](https://medium.com/@csharvanan/window-and-document-in-javascript-075194ec5e36)
 
 ## Document Object:
@@ -49,12 +51,13 @@ document.property_name;
 
 ### Properties of the window:
 
-*** 1. activeElement ***
-*** 2. body ***
-*** 3. defaultView ***
-*** 4. domain ***
-*** 5. URL ***
-*** 6. links ***
+***1. activeElement***
+***2. body***
+***3. defaultView***
+***4. domain***
+***5. URL***
+***6. links***
+
 [For More Click =>](https://medium.com/@csharvanan/window-and-document-in-javascript-075194ec5e36) 
 
 ## Methods of Document
@@ -67,10 +70,11 @@ document.method_name;
 
 ### Properties of the window:
 
-*** 1. getElementById() ***
-*** 2. write() ***
-*** 3. writeln() ***
-*** 4. createDocumentFragment() ***
-*** 5. fullscreenEnabled() ***
-*** 6. importNode() ***
+***1. getElementById()***
+***2. write()***
+***3. writeln()***
+***4. createDocumentFragment()***
+***5. fullscreenEnabled()***
+***6. importNode()***
+
 [For More Click =>](https://medium.com/@csharvanan/window-and-document-in-javascript-075194ec5e36) 
